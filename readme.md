@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Intelligent Chatbot Generative Digital Assistant  - Chatbot Assistant performs almost ANY task you can think of. This is your custom "Alexa" it opens mail, formats excel sheets, reads to you, tells jokes, and writes a swimming program for you.  Embedded ChatGPT 4. 
 Chatbot Assistant performs almost ANY task you can think of. This is your custom "Alexa" it opens mail, formats excel sheets, reads to you, tells jokes, and writes a swimming program for you.  Embedded ChatGPT 4. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Intelligent Chatbot Generative Digital Assistant ** - 
 Chatbot Assistant performs almost ANY task you can think of. This is your custom "Alexa" it opens mail, formats excel sheets, reads to you, tells jokes, and writes a swimming program for you.  Embedded ChatGPT 4. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
