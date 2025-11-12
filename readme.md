@@ -4,21 +4,11 @@
 
 ## status = ql.calculate_process_performance(solution_name, start_time)
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Intelligent Chatbot Generative Digital Assistant ** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Intelligent Chatbot Generative Digital Assistant ** 
 
 status = ql.calculate_process_performance(solution_name, start_time)
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
